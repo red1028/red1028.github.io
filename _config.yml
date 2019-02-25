@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme             : "mmistakes/minimal-mistakes"
-remote_theme             : "mmistakes/minimal-mistakes@4.15.2"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Openstack Project Manual"
 title_separator          : "-"
-name                     : "Young Ki, Park"
+name                     : "Young Ki, Park(Gonzalez Park)"
 description              : "Easy Manual Site."
 url                      : "https://red1028.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Young Ki, Park(Gonzalez Park)"
+  name             : "Young Ki, Park\n(Gonzalez Park)"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A manual creator for easy use of open source."
   location         : "Seoul, Korea"
